@@ -12,6 +12,7 @@ body {
 
 header {
   background: #55d6aa;
+  
 }
 
 header::after {
@@ -27,6 +28,8 @@ header::after {
 
 nav {
   float: right; 
+  background-color: #55d6aa;
+  width: 100vw;
 }
 
 nav ul {
